@@ -1,0 +1,1 @@
+Put your website screenshots in this folder, then add them to assets/js/portfolio-data.js
